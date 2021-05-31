@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MovilProyectoFinal</string>
+    <string name="title_activity_news">News</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="new_complaint">New complaint</string>
+    <string name="address_label">Address</string>
+    <string name="text_address">Write the Address</string>
+    <string name="observation_label">Observation</string>
+    <string name="text_observation">Write an observation</string>
+    <string name="save_button">Save</string>
+    <string name="complaint_successfully_saved">Complaint successfully saved</string>
+
+    <string name="write_address">Please, write the address</string>
+</resources>
